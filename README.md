@@ -10,7 +10,7 @@ Our gameplay reference is [Neo Bomberman](https://en.wikipedia.org/wiki/Neo_Bomb
 The project is composed with two library all in **C++** : the 3D engine **[Irrlicht 1.8.4](http://irrlicht.sourceforge.net/)** and the part of library **[SFML-audio 2.5](https://www.sfml-dev.org/)**.
 
 #### Subject
-  [B-YEP-400_indie.pdf](https://github.com/red-gecko27)
+  [B-YEP-400_indie.pdf](https://github.com/GreenDjango/bomberman/blob/master/B-YEP-400_indie.pdf)
 
 #### Project realised by:
 - **[@Frederic C.](https://github.com/red-gecko27)**
@@ -31,50 +31,43 @@ The project is composed with two library all in **C++** : the 3D engine **[Irrli
   > Will compile the entire project, and install it on your PC.
 
    ##### Windows:
-  ```sh
-        Bomberman_Installer.exe
-```
+  ```
+  Bomberman_Installer.exe
+  ```
   >  Will install the Bomberman on your PC. (Follow the instructions)
 
 ### Launch the bomberman:
   ##### Linux:
-  ```sh
-        ./bomberman
-```
+  ```
+  ./bomberman
+  ```
   >  Launch the bomberman.
 
-  ```sh
-        ./launch.sh
-```
+  ```
+   ./launch.sh
+  ```
   >  Will compile the entire project and launch it.
 
    ##### Windows:
-  ```sh
-        Double click on the executable.
-```
+  ```
+  Double click on the executable.
+  ```
   >  Do it, after executing Bomber_Installer.exe
 
 
 ### Bomberman Usage
 
+## Gameplay
+
 #### Player commands
-  ##### Player One
-   ***Arrow keys***: Move your character.
-  
-   ***Shift***: Place a bomb.
-  ##### Player Two
-   ***Z Q S D***: Move your character.
-  
-   ***A***: Place a bomb.
-  ##### Player Three
-   ***O K L M***: Move your character.
-  
-   ***I***: Place a bomb.
-  ##### Player Four
-   ***Y G H J***: Move your character.
-  
-   ***T***: Place a bomb.
+|**Player**|**Keys**|**Effect**|
+|---:|---:|:---|
+|Player 1|***Arrow keys***<br/>***Space***|Move your character.<br/>Place a bomb.|
+|Player 2|***Z Q S D***<br/>***A***|Move your character.<br/>Place a bomb.|
 
 #### Game commands
-  ***ESCAPE***: To pause the game.
-  ***ESCAPE*** again: To return to the menu.
+|**Keys**|**Effect**|
+|---:|:---|
+|***SPACE***|To skip the intro.|
+|***ENTER***|To validate without clicking.|
+|***ESCAPE***|To pause the game.|
