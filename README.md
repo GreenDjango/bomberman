@@ -1,6 +1,6 @@
 # Bomberman
 
-[![Teaser](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v= "Click to Watch!")
+[![Bomberman - Trailer](https://imgur.com/YVBB6zT.png)](https://www.youtube.com/watch?v=5d1xmhByLuM "Click to Watch!")
 
 #### The aim of the **Indie Studio** is to implement a cross-platform 3D video game with real-world tools.
 [Bomberman](https://en.wikipedia.org/wiki/Bomberman) is a well known game, where you control a character that have to kills the other players on the map with bomb. You can play in multiplayer or against AIs.
