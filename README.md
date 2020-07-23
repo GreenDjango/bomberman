@@ -21,43 +21,21 @@ The project is composed with two library all in **C++** : the 3D engine **[Irrli
 ### Program compilation and launching:
   ##### Linux:
   ```
-  ./launch.sh
+  cmake .
+  make
+  ./bomberman
   ```
   > Will compile the entire project and launch it.
 
-  ```
-  ./installer.sh
-  ```
-  > Will compile the entire project, and install it on your PC.
-
    ##### Windows:
   ```
-  Bomberman_Installer.exe
+  // Need to use Visual Studio
+  // and make a new cmake project
+  // for build the .exe
   ```
   >  Will install the Bomberman on your PC. (Follow the instructions)
 
-### Launch the bomberman:
-  ##### Linux:
-  ```
-  ./bomberman
-  ```
-  >  Launch the bomberman.
-
-  ```
-   ./launch.sh
-  ```
-  >  Will compile the entire project and launch it.
-
-   ##### Windows:
-  ```
-  Double click on the executable.
-  ```
-  >  Do it, after executing Bomber_Installer.exe
-
-
-### Bomberman Usage
-
-## Gameplay
+### Gameplay
 
 #### Player commands
 |**Player**|**Keys**|**Effect**|
